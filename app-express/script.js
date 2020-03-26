@@ -6,7 +6,7 @@ const compiledFunction = pug.compileFile('template.pug');
 const port = 3000;
 
 const app = express();
-app.get('/cities',(req, res) => {
+app.get('/countries',(req, res) => {
   fs.readFile('data.csv', 'utf8', (err, data) => {
     if (err) {
       console.log(err)

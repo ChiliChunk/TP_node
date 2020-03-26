@@ -1,0 +1,20 @@
+{
+  "cities": [
+    {
+      "id": "929777a7-1d8c-42c1-80d2-9d7af0b37d28",
+      "name": "Toulouse (aka la plus belle ville)"
+    },
+    {
+      "id": "95c6725a-5655-42eb-aeeb-2a65ea322ad7",
+      "name": "Albi"
+    },
+    {
+      "id": "fb72af60-342a-404d-a7f3-538832b36d7e",
+      "name": "Marseille"
+    },
+    {
+      "id": "59cdb971-e3ab-47ca-8206-1bbe2b562ae2",
+      "name": "Lyon"
+    }
+  ]
+}
